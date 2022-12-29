@@ -131,7 +131,7 @@ h6 {
 
 .me {
     background-color: #15293f;
-    border-radius: 50%;
+    border-radius: 30px;
 }
 
 @media (max-width: 992px) {
